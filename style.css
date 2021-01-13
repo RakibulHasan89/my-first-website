@@ -1,0 +1,33 @@
+
+body{
+    font-family: sans-serif;}
+.sajek-valley {
+    width: 90%;
+    margin: 20px auto;
+    text-align: justify;
+}
+.sajek{
+        
+    border: 1px solid tomato;
+    border-radius:15px;
+    margin:10px;
+    width:20%;
+    background-color: tomato;
+    color:white;
+    
+    padding: 10px 20px;
+    display: inline-block;
+    }
+    
+    .sajek h2 {
+        text-align: center;
+        bac
+    }
+    .sajek p{
+        text-align: justify;
+        font-size:14px
+    }
+    img{
+        width:40%;
+        margin: auto;
+    }
